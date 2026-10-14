@@ -63,3 +63,7 @@ This version uses a single service counter. Customer information is stored in me
 ## Author
 
 Developed as a Python project to practice programming fundamentals and problem-solving.
+
+## Sample Output
+
+![QueueFair simulation output](QueueFair_output_screenshot.png)
